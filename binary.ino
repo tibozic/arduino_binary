@@ -9,7 +9,7 @@ void display_array(int pins[], int values[], int length);
 
 void setup() {
   /*
-   * This programs calculates the binary values of numbers to 16, then
+   * This programs calculates the binary values of numbers to 15, then
    * displays them using LED lights.
   */
   pinMode(LED_BUILTIN, OUTPUT);
